@@ -4,7 +4,9 @@ Created on Sat Jan 27 21:36:57 2024
 
 @author: avikr
 """
-cd C:\AVIK\CORES\PHD_JIIT\CODES\F3_seismic_segmentation
+# cd C:\AVIK\CORES\PHD_JIIT\CODES\F3_seismic_segmentation
+#The dataset consists of seismic images and correcponding segmentation for Chaotic reflections can be found 
+#in the following email id avikroy.roy@gmail.com. Please mail directly for the segmented dataset:
 
 import pandas as pd
 import random
