@@ -7,4 +7,4 @@ The code has been implemented using the Spyder IDE. The primary libraries used i
 The SEGY volume used in this study is from the F3 Netherlands dataset, provided by dGB Earth Sciences. The corresponding segmented images are included in this repository.
 
 ## Citation 
-If you find this work useful and wish to contribute toward the development of more advanced architectures for scientific research, please ensure that you cite both the original dataset from dGB Earth Sciences and this work published in Acta Geophysica.
+If you find this work useful and wish to contribute toward the development of more advanced architectures for scientific research, please ensure that you cite both the original dataset from dGB Earth Sciences and this work published in Acta Geophysica. The segmented dataset is provided in the folder data
