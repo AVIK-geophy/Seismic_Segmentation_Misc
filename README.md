@@ -9,6 +9,4 @@ The SEGY volume used in this study is from the F3 Netherlands dataset, provided 
 ## Citation 
 If you find this work useful and wish to contribute toward the development of more advanced architectures for scientific research, please ensure that you cite both the original dataset from dGB Earth Sciences and this work published in Acta Geophysica. The segmented dataset is provided in the folder data
 
-<img width="1112" height="1514" alt="Fig 11" src="https://github.com/user-attachments/assets/9c8a68c8-0fc9-499f-9c49-ca35070fb881" />
-
 
