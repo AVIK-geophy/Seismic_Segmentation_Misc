@@ -1,4 +1,4 @@
-# Seismic_Segmentation_Misc
+# Segmentation of Chaotic Reflection from Seismic Images
 ## Data and Code Details 
 This repository contains code for the segmentation of seismic chaotic reflections from 3D seismic images using the U-Net algorithm. For a detailed explanation of the methodology and results, please refer to the paper titled "Application of U-Net Architecture for Segmentation of Complex Chaotic Reflections from Seismic Images" by Avik Roy and Anuja Arora.
 
