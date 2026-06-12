@@ -7,6 +7,14 @@ The code has been implemented using the Spyder IDE. The primary libraries used i
 The SEGY volume used in this study is from the F3 Netherlands dataset, provided by dGB Earth Sciences. The corresponding segmented images are included in this repository.
 
 ## Citation 
-If you find this work useful and wish to contribute toward the development of more advanced architectures for scientific research, please ensure that you cite both the original dataset from dGB Earth Sciences and this work published in Acta Geophysica. The segmented dataset is provided in the folder data
+If you find this work useful and wish to contribute toward the development of more advanced architectures for scientific research using the segmented dataset, please cite both the original dataset from dGB Earth Sciences and this work published in Acta Geophysica: 
+1. dGB Earth Sciences, 2020. Project f3 demo 2020. URL: https://terranubis.com/datainfo/F3-Demo-2020.
+2. Roy, A., & Arora, A. (2026). Application of U-Net architecture for segmentation of complex chaotic reflections from seismic images. Acta Geophysica, 74(3), 164.
 
+The segmented dataset is provided in the data folder with this repository.
+
+## Programming Environmernt:
+The code is accomplished in the Spyder IDE locally. Example of segmented image, original images and masked images used for training are shown below.
+
+### 
 
