@@ -14,7 +14,7 @@ If you find this work useful and wish to contribute toward the development of mo
 The segmented dataset is provided in the data folder with this repository.
 
 ## Programming Environmernt & Final Segmentation Results:
-The code is accomplished in the Spyder IDE locally. Example of segmented image, original images and masked images in training (left) and testing (right) data are shown below.
+The code is accomplished in the Spyder IDE locally. Example of original images, prepared masked images and final U-Net segmented images in training (left) and testing (right) data are shown below.
 
 <img width="464" height="688" alt="image" src="https://github.com/user-attachments/assets/02c79e72-4cea-4b41-a582-c64877b733e0" />
 
